@@ -1,0 +1,1 @@
+# yhg-go.github.com
