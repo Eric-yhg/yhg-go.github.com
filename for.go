@@ -33,5 +33,6 @@ func main() {
 			fmt.Printf("%dx%d=%d ", n, m, m*n)
 		}
 		fmt.Println("")
+
 	}
 }
