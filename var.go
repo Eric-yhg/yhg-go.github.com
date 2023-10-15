@@ -12,5 +12,4 @@ func main() {
 	var d = "1345"
 	f := "0.5"
 	fmt.Println(c, d, f)
-
 }
