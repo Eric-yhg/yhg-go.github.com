@@ -19,5 +19,4 @@ func main() {
 		i        //8
 	)
 	fmt.Println(a, b, c, d, e, f, g, h, i)
-
 }
