@@ -5,7 +5,6 @@ import "fmt"
 func main() {
 	a := 90
 	//c := "yhg"
-
 	switch {
 	default:
 		{
