@@ -18,7 +18,6 @@ func main() {
 	for num := range uniqueMap {
 		uniqueList = append(uniqueList, num)
 	}
-
 	// 排序
 	sort.Ints(uniqueList)
 
