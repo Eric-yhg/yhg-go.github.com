@@ -20,6 +20,5 @@ func main() {
 	}
 	// 排序
 	sort.Ints(uniqueList)
-
 	fmt.Println(uniqueList)
 }
