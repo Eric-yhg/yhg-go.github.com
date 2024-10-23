@@ -1,25 +1,24 @@
 //package main
 
-//func main() {
-//	a := 100
-//	b := 200
-//	var ret int
-//	ret = max(a, b)
-//	fmt.Printf("最大值是 : %d\n", ret)
-//}
-//
-//func max(num1, num2 int) int {
-//	/* 声明局部变量 */
-//	var result int
-//
-//	if num1 > num2 {
-//		result = num1
-//	} else {
-//		result = num2
+//	func main() {
+//		a := 100
+//		b := 200
+//		var ret int
+//		ret = max(a, b)
+//		fmt.Printf("最大值是 : %d\n", ret)
 //	}
-//	return result
-//}
-
+//
+//	func max(num1, num2 int) int {
+//		/* 声明局部变量 */
+//		var result int
+//
+//		if num1 > num2 {
+//			result = num1
+//		} else {
+//			result = num2
+//		}
+//		return result
+//	}
 package main
 
 import "fmt"
