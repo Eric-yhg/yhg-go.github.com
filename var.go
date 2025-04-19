@@ -14,5 +14,3 @@ func main() {
 	fmt.Println(c, d, f)
 }
 lkfsdjlfkjdslkflskdfs
-回滚1
-回滚2
