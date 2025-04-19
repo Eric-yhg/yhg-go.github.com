@@ -14,5 +14,3 @@ func main() {
 	fmt.Println(c, d, f)
 }
 lkfsdjlfkjdslkflskdfs
-test
-test
