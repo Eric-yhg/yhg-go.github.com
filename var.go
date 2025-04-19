@@ -14,5 +14,8 @@ func main() {
 	fmt.Println(c, d, f)
 }
 lkfsdjlfkjdslkflskdfs
+<<<<<<< HEAD
 回滚1
 回滚2
+=======
+>>>>>>> 1ab2896 (Revert "test")
