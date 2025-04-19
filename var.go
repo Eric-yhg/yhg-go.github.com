@@ -13,3 +13,7 @@ func main() {
 	f := "0.5"
 	fmt.Println(c, d, f)
 }
+lkfsdjlfkjdslkflskdfs
+test
+test
+
